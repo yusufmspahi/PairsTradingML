@@ -1,2 +1,2 @@
 # ML-based-Pairs-Trading
-Using machine learning to optimise aspects of pairs trading investment strategies.
+Using statistics and machine learning to optimise aspects of pairs trading investment strategies.
